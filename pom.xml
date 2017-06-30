@@ -108,6 +108,7 @@ THE SOFTWARE.
        from the Jenkins org pom. This is on purpose to keep jenkins core buildable even if one has
        *not* defined the specific details in the settings.xml file. -->
   <repositories>
+    <repository>
       <id>nexus</id>
       <url>http://nexus/repository/raw-proxy-maven/</url>
     </repository>
