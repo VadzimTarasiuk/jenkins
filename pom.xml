@@ -110,7 +110,7 @@ THE SOFTWARE.
   <repositories>
     <repository>
       <id>nexus</id>
-      <url>http://nexus/repository/raw-proxy-maven/</url>
+      <url>http://nexus:8081/repository/raw-proxy-maven/</url>
     </repository>
   </repositories>
 
